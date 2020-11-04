@@ -1,0 +1,30 @@
+{
+  "name": "makehandler",
+  "version": "0.1.0",
+  "description": "A Great NPM Official Module For Making Handlers Easily",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ardakaragoz/makehandler.git"
+  },
+  "keywords": [
+    "Handler",
+    "CommandHandler",
+    "Events",
+    "EventsHandler",
+    "Rhino",
+    "Handling",
+    "Fs",
+    "Path",
+    "Module"
+  ],
+  "author": "Arda Karagöz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ardakaragoz/makehandler/issues"
+  },
+  "homepage": "https://github.com/ardakaragoz/makehandler#readme"
+}
